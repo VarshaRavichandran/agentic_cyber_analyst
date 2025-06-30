@@ -1,0 +1,5 @@
+TTP: Tactics, Techniques, and Procedures. Describes how an adversary operates.
+IOC: Indicator of Compromise. Evidence of a security breach.
+Zero-day: A software vulnerability unknown to the vendor, exploited by attackers.
+Ransomware: Malicious software that encrypts data and demands payment.
+APT: Advanced Persistent Threat. A stealthy threat actor, typically state-sponsored.
