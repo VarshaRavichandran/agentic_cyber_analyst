@@ -1,0 +1,5 @@
+[
+    {"id": "T1059.001", "name": "PowerShell", "description": "Adversaries may abuse PowerShell to execute commands..."},
+    {"id": "T1071.001", "name": "Web Protocols", "description": "Adversaries may communicate using application layer protocols associated with web traffic..."},
+    {"id": "T1566.001", "name": "Spearphishing Attachment", "description": "Adversaries may send spearphishing emails with malicious attachments to gain initial access..."}
+]
