@@ -1,0 +1,5 @@
+[
+    {"id": "CVE-2024-1234", "severity": "High", "description": "Vulnerability in XYZ software leading to RCE."},
+    {"id": "CVE-2024-5678", "severity": "Medium", "description": "Cross-site scripting in ABC web application."},
+    {"id": "CVE-2023-0001", "severity": "Critical", "description": "Log4Shell-like vulnerability in a widely used library. Allows remote code execution via specially crafted LDAP query. Used by APT29."}
+]
