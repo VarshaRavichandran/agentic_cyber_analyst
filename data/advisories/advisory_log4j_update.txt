@@ -1,0 +1,2 @@
+CISA Advisory: Log4j Vulnerability Update
+This advisory provides updated guidance on the Apache Log4j vulnerability (CVE-2021-44228), also known as Log4Shell. Organizations are urged to immediately patch all affected systems. Threat actors, including state-sponsored groups, are actively exploiting this vulnerability for initial access and remote code execution. Mitigation involves updating Log4j to version 2.17.1 or later, or configuring affected applications.
